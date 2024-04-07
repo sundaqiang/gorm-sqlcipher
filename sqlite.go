@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	_ "github.com/sundaqiang/go-sqlcipher/v3"
+	_ "github.com/xeodou/go-sqlcipher"
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"
 	"gorm.io/gorm/clause"
